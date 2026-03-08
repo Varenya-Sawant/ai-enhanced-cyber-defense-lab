@@ -75,3 +75,32 @@ This enables detection of **unusual login behavior** that traditional rules may 
 ---
 
 # Repository Structure
+
+docs/ → architecture diagrams and setup guides
+src/ → Python ML detection pipeline
+config/ → SIEM and syslog configurations
+attacks/ → adversary emulation commands
+datasets/ → exported logs for analysis
+reports/ → incident response documentation
+screenshots/ → SIEM dashboards and ML results
+
+
+---
+
+# Project Goals
+
+This lab demonstrates practical capability in:
+
+- SOC architecture design
+- SIEM deployment
+- log pipeline engineering
+- adversary simulation
+- machine learning security analytics
+- incident response documentation
+
+---
+
+# Author
+
+Varenya Sawant  
+Cybersecurity | Detection Engineering | AI Security
