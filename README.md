@@ -23,7 +23,7 @@ The environment consists of three core nodes:
 **Network Topology**
 
 - VMware **Host-Only Network**
-- Subnet: `192.168.56.0/24`
+- Subnet: `192.168.XX.0/24`
 - Fully isolated lab environment for safe attack simulation
 
 ---
